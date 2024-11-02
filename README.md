@@ -3,7 +3,7 @@
 
 ## Project URL
 
-- [Live URL](https://codehelp-blogs-website-react.netlify.app/)
+- [Live URL](https://codehelp-blog-page-context-api.netlify.app/)
 
 
 
